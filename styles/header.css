@@ -68,6 +68,10 @@
   margin-right: 10px;
 }
 
+.search-button:hover {
+  background-color: rgba(240, 240, 240, 0.61);
+}
+
 .search-button,
 .voice-search-button,
 .upload-icon-container,
